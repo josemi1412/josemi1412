@@ -1,10 +1,10 @@
 <h1 align="center">Hola! 👋, Soy José Miguel</h1>
 <h3 align="center">Soy tecnico superior en Desarrollo de aplicaciones web</h3>
 
-📄 **Sobre mi** 
+📄 **Sobre mi** </br>
 Soy un apasionado del desarrollo web, aunque sea nuevo en el sector de la programación, he dedicado mi tiempo en aprender y conocer diferentes tecnologías para el desarrollo web.
 
-📄 **about me** 
+📄 **about me** </br>
 I am passionate about web development, although I am new to the professional world of programming, I have dedicated myself to learning and mastering various web development technologies.
 
 
