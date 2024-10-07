@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy José Miguel</h1>
-<h3 align="center">Soy tecnico superior en Desarrollo de aplicaciones web</h3>
+<h3 align="center">Soy técnico superior en Desarrollo de aplicaciones web</h3>
 
 📄 **Sobre mi** </br>
 Soy un apasionado del desarrollo web, aunque sea nuevo en el sector de la programación, he dedicado mi tiempo en aprender y conocer diferentes tecnologías para el desarrollo web.
