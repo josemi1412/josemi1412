@@ -19,15 +19,9 @@ I am passionate about web development, although I am new to the professional wor
 
 👨‍💻 Todos mis proyectos los puedes encontrar en  [jmgarciagarrigos.es](jmgarciagarrigos.es)
 
-<div align="center"> 
-  
-
-  <a href = "mailto:josemiguel.garciagarrigos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josemiguelgarciagarrigos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
 <hr>
 <h2 align="center"> 🔥 Tecnologías con las que trabajo 🔥 </h3> </br>
+<div align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
@@ -39,5 +33,6 @@ I am passionate about web development, although I am new to the professional wor
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,bootstrap,html,css,js,sass" />
   </a>
+</div>
 </hr>
 
