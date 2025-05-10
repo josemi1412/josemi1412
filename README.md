@@ -15,9 +15,8 @@ I am passionate about web development, although I am new to the professional wor
  
 </div>
 
-🌱 Actulamente estoy formándome en  **ReactJs and NodeJs**
+🌱 Actulamente estoy formándome en  **ReactJs, Vue3, Php, Laravel y NodeJs**
 
-👨‍💻 Todos mis proyectos los puedes encontrar en  [jmgarciagarrigos.es](jmgarciagarrigos.es)
 
 <hr>
 <h2 align="center"> 🔥 Tecnologías con las que trabajo 🔥 </h3> </br>
@@ -27,7 +26,7 @@ I am passionate about web development, although I am new to the professional wor
   </a>
 <h3 align="center">Backend</h3><br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,mysql,dotnet,firebase,php" />
+    <img src="https://skillicons.dev/icons?i=cs,mysql,dotnet,firebase" />
   </a>
 <h3 align="center">Frontend</h3><br>
 <a href="https://skillicons.dev">
