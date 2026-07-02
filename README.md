@@ -1,11 +1,11 @@
 <h1 align="center">Hola! 👋, Soy José Miguel</h1>
-<h3 align="center">Soy técnico superior en Desarrollo de aplicaciones web</h3>
+<h3 align="center">Desarrollador web enfocado en C#, .NET, ASP.NET MVC y frontend moderno</h3>
 
 📄 **Sobre mi** </br>
-Soy un apasionado del desarrollo web, aunque sea nuevo en el sector de la programación, he dedicado mi tiempo en aprender y conocer diferentes tecnologías para el desarrollo web.
+Soy desarrollador web con experiencia en el desarrollo y mantenimiento de aplicaciones web. Mi foco principal está en el ecosistema Microsoft: C#, .NET, ASP.NET MVC, Entity Framework, SQL Server y bases de datos SQL, combinándolo con una base sólida de frontend.
 
 📄 **about me** </br>
-I am passionate about web development, although I am new to the professional world of programming, I have dedicated myself to learning and mastering various web development technologies.
+I am a web developer focused on the Microsoft ecosystem: C#, .NET, ASP.NET MVC, Entity Framework, SQL Server and SQL databases, combined with a solid frontend foundation.
 
 <br>
 <div align="center"> 
@@ -15,22 +15,22 @@ I am passionate about web development, although I am new to the professional wor
  
 </div>
 
-🌱 Actulamente estoy formándome en  **ReactJs, Vue3, Php, Laravel y NodeJs**
+🌱 Actualmente estoy reforzando mi perfil en **.NET, ASP.NET, React y Blazor**
 
 
 <hr>
-<h2 align="center"> 🔥 Tecnologías con las que trabajo 🔥 </h3> </br>
+<h2 align="center"> 🔥 Tecnologías con las que trabajo 🔥 </h2> </br>
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
   </a>
 <h3 align="center">Backend</h3><br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,mysql,dotnet,firebase" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,mysql" />
   </a>
 <h3 align="center">Frontend</h3><br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,bootstrap,html,css,js,sass" />
+    <img src="https://skillicons.dev/icons?i=react,blazor,bootstrap,html,css,js,sass" />
   </a>
 </div>
 </hr>
