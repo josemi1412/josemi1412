@@ -25,13 +25,17 @@ I am a web developer focused on the Microsoft ecosystem: C#, .NET, ASP.NET MVC, 
     <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
   </a>
 <h3 align="center">Backend</h3><br>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,mysql" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 <h3 align="center">Frontend</h3><br>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,blazor,bootstrap,html,css,js,sass" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="48" height="48" alt="Blazor" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js,sass" />
+</p>
 </div>
 </hr>
 
